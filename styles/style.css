@@ -317,7 +317,10 @@ body{
     line-height: 20px;
 
 }
-
+.currency{
+    padding: 11px;
+    padding: 11px 0;
+}
 
 
 
